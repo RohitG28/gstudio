@@ -10,6 +10,11 @@ The project is released under GNU AGPL v3 license.
 Features of gstudio
 -------------------
 
+
+
+
+
+
 Read the file [Overview](https://github.com/gnowledge/gstudio/blob/master/doc/index.org)
 
 Expected release of the version 1.0 during September - October 2016. until then
